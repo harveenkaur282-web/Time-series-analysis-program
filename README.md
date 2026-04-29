@@ -6,6 +6,8 @@ A time series analysis and forecasting project built during a course organized b
 
 This repository contains materials and exercises focused on time series data visualization, analysis, and forecasting using Python. The work covers both traditional statistical methods and modern machine learning approaches.
 
+> Status: Currently in development and under active improvement.
+
 ## Topics Covered
 
 - Time data visualization in Python
